@@ -18,6 +18,9 @@ NLTK stopwords and punkt data
 Python libraries: tkinter, pandas, numpy, re, tensorflow, keras, nltk
 NLTK stopwords and punkt data (downloaded within the code)
 
+![Screenshot (974)](https://github.com/gradan-hash/languageidentifier/assets/80700768/66bacf2e-38a8-45c1-9f67-6ae3a46813d8)
+
+
 **Running the Project**
 **Training the Model:**
 Open language.ipynb in a Jupyter Notebook environment or compatible IDE.
